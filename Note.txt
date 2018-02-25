@@ -1,0 +1,6 @@
+
+Exercise 4 #5:
+With dependecy injection, we don't need to create a new instance of the object which makes code loosly-cuppled and easy to maintain. 
+
+Exercise 6 #5:
+Unit Test is small sub-test that is designed to test part of the program by breaking the project into pieces. Usually this test is run as a separate program. 
